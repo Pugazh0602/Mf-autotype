@@ -1,4 +1,1 @@
-{
-  "allowed": false,
-  "reason": "SECURITY EVENT"
-}
+{ "allowed": true, "mode": "NORMAL" }
