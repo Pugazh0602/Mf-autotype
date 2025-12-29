@@ -1,1 +1,4 @@
-# Mf-autotype
+{
+  "allowed": true,
+  "mode": "NORMAL"
+}
